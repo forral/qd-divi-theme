@@ -26,3 +26,28 @@ Developed by Andrew Palmer for Elegant Marketplace www.elegantmarketplace.com Fr
 #cs-page .et_pb_fullwidth_header_container .center {
     min-height: 490px;
 }
+
+
+/* home page version 1 (id: hp-v1) style: */
+#hp-v1 .et_pb_header_content_wrapper {
+    padding-left: 29px;
+}
+
+/* home page version 2 (id: hp-v2) style: */
+#menu-qd {
+  list-style-type: none;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+.our-li {
+  display: inline;
+  padding: 30px;
+  list-style-type: none;
+  color: #dedede;
+}
+
+#hp-v2 .et_pb_header_content_wrapper {
+    margin-top: 200px;
+
+}
